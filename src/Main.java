@@ -44,7 +44,7 @@ public class Main {
         System.out.println("Перегруз на " + overload + "кг!");
 
         var productsInOneCar = productsWeight / 2;
-        System.out.println("Продуктов в одной машине теперь " + productsInOneCar);
+        System.out.println("Продуктов теперь в одной машина " + productsInOneCar);
 
 
     }
